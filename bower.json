@@ -1,0 +1,11 @@
+{
+  "name": "GulpBoilerplate",
+  "version": "0.0.1",
+  "authors": ["David McGeorge <hello@davymacca.com>"],
+  "description": "Balloon",
+  "private": true,
+  "dependencies": {
+    "jQuery": "~2.1.3",
+    "underscore": "~1.7.0"
+  }
+}

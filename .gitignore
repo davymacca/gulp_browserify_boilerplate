@@ -1,0 +1,5 @@
+# Ignore the build source files
+node_modules
+bower_components
+build
+release

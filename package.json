@@ -1,0 +1,36 @@
+{
+    "name": "GulpBoilerplate",
+    "version": "0.0.1",
+    "description": "Gulp, Stylus, Browserify boilerplate",
+    "devDependencies": {
+        "yargs": "~1.3.3",
+        "gulp": "~3.8.10",
+        "run-sequence": "~1.0.2",
+        "gulp-if": "~1.2.5",
+        "gulp-rimraf": "~0.1.1",
+        "gulp-replace": "~0.5.1",
+        "gulp-minify-html": "~0.1.8",
+        "gulp-stylus": "~2.0.0",
+        "gulp-rename": "~1.2.0",
+        "gulp-sourcemaps": "~1.3.0",
+        "nib": "~1.0.4",
+        "gulp-imagemin": "~2.1.0",
+        "gulp-jshint": "~1.9.0",
+        "jshint-stylish": "~1.0.0",
+        "watchify": "~2.2.1",
+        "vinyl-source-stream": "~1.0.0",
+        "browserify": "~8.1.1",
+        "browserify-shim": "~3.8.2",
+        "gulp-watch": "~3.0.0",
+        "gulp-livereload": "~3.4.0",
+        "gulp-connect": "~2.2.0",
+        "gulp-uglify": "~1.1.0",
+        "debowerify": "~1.2.0",
+        "vinyl-buffer": "~1.0.0"
+    },
+    "browser": {
+        "jquery": "./bower_components/jQuery/dist/jquery.js",
+        "underscore": "./bower_components/underscore/underscore.js"
+    },
+    "browserify-shim": {}
+}
