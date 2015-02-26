@@ -2,7 +2,6 @@
 
 var gulp = require('gulp');
 var browserify = require('browserify');
-var debowerify = require('debowerify');
 var source = require('vinyl-source-stream');
 var buffer = require('vinyl-buffer');
 var browserifyShim = require('browserify-shim');
